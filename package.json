@@ -24,10 +24,15 @@
   },
   "homepage": "https://github.com/agile-contrib/vue2#readme",
   "dependencies": {
+    "@hai2007/algorithm": "^0.5.1",
     "@hai2007/polyfill": "^0.1.1",
     "@hai2007/style": "^0.3.0",
+    "@hai2007/tool": "^0.6.6",
+    "axios": "^0.21.1",
     "vue": "^2.6.11",
-    "vue-router": "^3.5.1"
+    "vue-input-check": "^0.1.1",
+    "vue-router": "^3.5.1",
+    "vuex": "^3.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
