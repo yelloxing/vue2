@@ -1,0 +1,22 @@
+{
+  "name": "vue2",
+  "version": "0.1.0",
+  "description": "vue2原型项目",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agile-contrib/vue2.git"
+  },
+  "keywords": [
+    "vue2",
+    "prototype"
+  ],
+  "author": "你好2007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agile-contrib/vue2/issues"
+  },
+  "homepage": "https://github.com/agile-contrib/vue2#readme"
+}
